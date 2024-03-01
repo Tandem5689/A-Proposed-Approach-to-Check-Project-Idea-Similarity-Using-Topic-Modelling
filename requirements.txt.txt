@@ -1,0 +1,10 @@
+Flask>=2.0.0
+flask-cors>=3.0.10
+requests>=2.26.0
+mammoth>=1.4.11
+spacy>=3.2.1
+nltk>=3.6.5
+spacy-universal-sentence-encoder>=0.4.6
+bs4>=0.0.1
+numpy>=1.21.3
+scipy>=1.7.3
